@@ -1,14 +1,17 @@
-This is a start project for C# and .NET.
+## This is a start project for C# and .NET.
 
-The project is a simple studante grade score, that you can:
+### The project is a simple studante grade score, that you can:
 
--Add a student
--List the students
--Calculeta the overall averange.
+- Add a student
+- List the students
+- alculeta the overall averange.
 
 
-For run
-
+## For run
+```
 dotnet build
+```
 
+```
 dotnet run
+```
